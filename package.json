@@ -1,0 +1,15 @@
+{
+  "name": "janebot",
+  "version": "1.0.0",
+  "description": "This bot sends 'Ja ne' to you in some cases",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javi",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
